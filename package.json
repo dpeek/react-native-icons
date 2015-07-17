@@ -24,5 +24,8 @@
   },
   "react-native-module": {
     "podfile": "react-native-icons.podspec"
-  }
+  },
+  "peerDependencies": {
+    "react-native": "*"
+   }
 }
